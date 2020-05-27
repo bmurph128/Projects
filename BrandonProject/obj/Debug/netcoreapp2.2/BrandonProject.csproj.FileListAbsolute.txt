@@ -1,0 +1,11 @@
+C:\Users\Student\BrandonProject\BrandonProject\bin\Debug\netcoreapp2.2\BrandonProject.deps.json
+C:\Users\Student\BrandonProject\BrandonProject\bin\Debug\netcoreapp2.2\BrandonProject.runtimeconfig.json
+C:\Users\Student\BrandonProject\BrandonProject\bin\Debug\netcoreapp2.2\BrandonProject.runtimeconfig.dev.json
+C:\Users\Student\BrandonProject\BrandonProject\bin\Debug\netcoreapp2.2\BrandonProject.dll
+C:\Users\Student\BrandonProject\BrandonProject\bin\Debug\netcoreapp2.2\BrandonProject.pdb
+C:\Users\Student\BrandonProject\BrandonProject\obj\Debug\netcoreapp2.2\BrandonProject.csprojAssemblyReference.cache
+C:\Users\Student\BrandonProject\BrandonProject\obj\Debug\netcoreapp2.2\BrandonProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\BrandonProject\BrandonProject\obj\Debug\netcoreapp2.2\BrandonProject.AssemblyInfoInputs.cache
+C:\Users\Student\BrandonProject\BrandonProject\obj\Debug\netcoreapp2.2\BrandonProject.AssemblyInfo.cs
+C:\Users\Student\BrandonProject\BrandonProject\obj\Debug\netcoreapp2.2\BrandonProject.dll
+C:\Users\Student\BrandonProject\BrandonProject\obj\Debug\netcoreapp2.2\BrandonProject.pdb
